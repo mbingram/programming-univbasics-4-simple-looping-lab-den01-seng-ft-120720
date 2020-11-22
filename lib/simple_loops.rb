@@ -26,8 +26,8 @@ def output_array(array)
 end
 
 def return_string_array(elements)
-  array = elements.to_s
-  return array
+  elements.to_s
+  return elements
 end
   
   
