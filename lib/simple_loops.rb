@@ -24,3 +24,13 @@ def output_array(array)
   puts array[3]
   puts array[4]
 end
+
+def return_string_array(elements)
+  elements.to_s
+  puts elements
+end
+  
+  
+  
+  
+  
