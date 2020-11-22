@@ -1,4 +1,3 @@
-require 'pry'
 
 def loop_message_five_times(message)
   counter = 0
@@ -9,3 +8,4 @@ def loop_message_five_times(message)
   end
 end
 
+def loop_message_n_times(message, n)
