@@ -26,7 +26,7 @@ def output_array(array)
 end
 
 def return_string_array(elements)
-  elements.join()
+  elements.join(" ")
   return elements
 end
   
