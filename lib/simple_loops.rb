@@ -27,7 +27,7 @@ end
 
 def return_string_array(elements)
   elements.to_s
-  puts elements
+  return elements
 end
   
   
