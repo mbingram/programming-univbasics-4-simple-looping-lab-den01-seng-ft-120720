@@ -11,7 +11,7 @@ end
 def loop_message_n_times(message, five)
   counter = 0
   
-  while counter =< 5 do
+  while counter <= 5 do
     puts message
     counter += 1 
   end
